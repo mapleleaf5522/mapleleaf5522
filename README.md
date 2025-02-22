@@ -19,7 +19,7 @@
 
 ### :man_technologist: About me
 
-I’m Dayan Perez, a software engineer and frontend developer based in Montevideo, Uruguay. I’m passionate about building software that improves people’s lives. I specialize in building performant and accessible web applications.
+I'm Maple Leaf, a software engineer and frontend developer based in Montevideo, Uruguay. I’m passionate about building software that improves people’s lives. I specialize in building performant and accessible web applications.
 
 - `Frontend`: JavaScript, TypeScript, CSS, HTML, ReactJs, VueJs, Redux, Recoil, Styled-Components, GraphQL.
 - `Backend`: NestJs, NodeJS, Laravel.
